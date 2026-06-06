@@ -3,6 +3,12 @@ Nanse AI 学習・調査用のサンプルリポジトリです。
 
 ## 概要
 
+### x402のエンドポイントを検索する
+
+```bash
+curl -s https://api.nansen.ai/.well-known/x402 | jq
+```
+
 ## 参考文献
 - [開発者向けドキュメント](https://docs.nansen.ai/)
 - [Nansen用のAgent SKILL](https://github.com/nansen-ai/nansen-skills)
