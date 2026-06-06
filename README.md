@@ -8,3 +8,4 @@ Nanse AI 学習・調査用のサンプルリポジトリです。
 - [Nansen用のAgent SKILL](https://github.com/nansen-ai/nansen-skills)
 - [NansenのGitHub](https://github.com/nansen-ai/nansen-skills)
 - [NansenのYoutube](https://www.youtube.com/@nansen_ai)
+- [Nansenのダッシュボード](https://app.nansen.ai/)
